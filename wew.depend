@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1576325490 source:f:\c++\wew\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<cstring>
+	<fstream>
+	<Windows.h>
+	<algorithm>
+	<fstream>
+	<string>
+	<stack>
+	<cstdio>
+	<vector>
+	<sstream>
+
+1576481618 source:h:\wew\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<cstring>
+	<fstream>
+	<Windows.h>
+	<algorithm>
+	<fstream>
+	<string>
+	<stack>
+	<cstdio>
+	<vector>
+	<sstream>
+
+1576682036 source:c:\users\ltd09\desktop\u\wew\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<cstring>
+	<fstream>
+	<Windows.h>
+	<algorithm>
+	<fstream>
+	<string>
+	<stack>
+	<cstdio>
+	<vector>
+	<sstream>
+

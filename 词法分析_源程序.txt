@@ -1,0 +1,11 @@
+#include<iostream>
+char main()
+{
+	int c=3;
+ 	int a=4; 
+	if(!c==5&&!a==5)
+	{
+		c = c + a;
+	}
+	return 31;
+}
